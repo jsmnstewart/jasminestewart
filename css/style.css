@@ -124,7 +124,7 @@ h4.subHeading{
 	padding-bottom:35px;
 	padding-right:50px;
 	margin-bottom:35px;
-	border-bottom:11px solid #ff554e;
+	border-bottom:11px solid #28469a;
 	display:inline-block;
 }
 .heading h2 span {
@@ -229,7 +229,7 @@ header{
 	line-height:50px;
 }
 .bannerText h1 span{
-	color:#ff554e;
+	color:#28469a;
 }  
 .bannerText h3{
 	color:#fff;
@@ -259,8 +259,8 @@ header{
 	margin:0 auto;
 }
 .bannerText .mbnt:hover{
-	color:#ff554e;
-	border-color:#ff554e;
+	color:#28469a;
+	border-color:#28469a;
 }
 
 /*----------------------------------------------------
@@ -395,7 +395,7 @@ header{
 	background: transparent;
 }
 .isStuck{
-	background:#ff554e ;
+	background:#28469a; 
 	
 	-o-transition: all .5s;
     -ms-transition: all .5s;
@@ -460,7 +460,7 @@ header{
 	background:#ff675f;
 }
 .skillset {
-	background:#ff675f;
+	background:#28469a;
 	display:table;
 	width:100%;
 }
@@ -506,7 +506,7 @@ header{
 	width:120px;
 	height:120px;
 	display:inline-block;
-	background-color:#ff554e;
+	background-color:#28469a;
 	text-align:center;
 	color:#fff;
 	-webkit-border-radius:50%;
@@ -828,7 +828,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 .experdate {
 	width:114px;
 	height:114px;
-	background:#ff554e;
+	background:#28469a;
 	color:#fff;
 	padding-top:40px;
 	font-size:16px;
@@ -843,7 +843,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 ------------------------------------------------------*/
 
 .contact{
-	background:#ff675f;
+	background:#28469a;
 }
 .contact .container{
 	padding-top:116px;
@@ -931,7 +931,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 .conForm .submitBnt{
-	background:#ff554e;
+	background:#28469a;
 	font-family: 'Montserrat', sans-serif;
 	color:#fff;
 	font-size:16px;
@@ -1015,7 +1015,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	text-decoration:none;
 }
 .cinfoBox p a:hover{
-	color:#ff554e;
+	color:#28469a;
 }
 
 /*----------------------------------------------------
