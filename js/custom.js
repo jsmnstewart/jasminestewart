@@ -113,7 +113,7 @@ $(window).load(function(){
     });
 
 // Skill set 
-$('.photoshopskill').ClassyLoader({
+$('.excelskill').ClassyLoader({
 	speed: 50,
 	diameter: 65,
 	fontSize: '20px',
@@ -124,7 +124,7 @@ $('.photoshopskill').ClassyLoader({
 	lineWidth: 15,
 	remainingLineColor: 'rgba(255,255,255,0.5)'
 });
-$('.illustratorskill').ClassyLoader({
+$('.omnigraffleskill').ClassyLoader({
 	speed: 50,
 	diameter: 65,
 	fontSize: '20px',
@@ -135,7 +135,7 @@ $('.illustratorskill').ClassyLoader({
 	lineWidth: 15,
 	remainingLineColor: 'rgba(255,255,255,0.5)'
 });
-$('.flashskill').ClassyLoader({
+$('.tableauskill').ClassyLoader({
 	speed: 50,
 	diameter: 65,
 	fontSize: '20px',
@@ -143,6 +143,17 @@ $('.flashskill').ClassyLoader({
 	fontColor: 'rgba(255,255,255,1)',
 	lineColor: 'rgba(255,255,255,1)',
 	percentage: 80,
+	lineWidth: 15,
+	remainingLineColor: 'rgba(255,255,255,0.5)'
+});
+$('.sqlskill').ClassyLoader({
+	speed: 50,
+	diameter: 65,
+	fontSize: '20px',
+	fontFamily: 'Open Sans',
+	fontColor: 'rgba(255,255,255,1)',
+	lineColor: 'rgba(255,255,255,1)',
+	percentage: 75,
 	lineWidth: 15,
 	remainingLineColor: 'rgba(255,255,255,0.5)'
 });
