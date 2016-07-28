@@ -226,9 +226,12 @@ header{
 
 .bannerText h1{
 	text-transform:uppercase;
-	line-height:50px;
+	line-height:45px;
 }
 .bannerText h1 span{
+	color:#28469a;
+}
+.bannerText h2 span{
 	color:#28469a;
 }  
 .bannerText h3{
@@ -239,9 +242,12 @@ header{
 	text-transform:uppercase;
 	margin-bottom:20px;
 }
+.bannerText h3 span{
+	color:#28469a;
+}  
 .bannerText p{
-	font-size:18px;
-	color:#9295a1;
+	font-size:16px;
+	color:#fff;
 	text-transform:none;
 	padding-bottom:44px;
 }
@@ -986,7 +992,60 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	position:relative;
 	z-index:2;
 }
+contacts-info {
+    padding: 0 0 0 38px;
+    margin-top: -7px;
+    font: normal 400 16px / 26px "Quattrocento Sans", sans-serif
+}
 
+.contacts-info .contact-title {
+    margin: 0 0 27px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-transform: uppercase
+}
+
+.contacts-info .contact-title.mb-17 {
+    margin-bottom: 17px
+}
+
+.contacts-info p {
+    margin: 0 0 51px;
+    padding: 0;
+    font-size: 14px;
+    line-height: 26px
+}
+
+.contact-social-links {
+    padding: 0;
+    margin: -4px 0 55px
+}
+
+.contact-social-links a {
+    -webkit-transition: color 0.15s ease;
+    -moz-transition: color 0.15s ease;
+    transition: color 0.15s ease;
+    color: #6f6b65;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 11px;
+    font-size: 17px;
+    text-decoration: none
+}
+
+.contact-social-links a:first-child {
+    margin-left: 0
+}
+
+.contact-social-links a:before {
+    margin: 0
+}
+
+.contact-social-links a:hover {
+    color: #b15b5f
+}
 
 .cinfoBox{
 	padding-bottom:40px;
